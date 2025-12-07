@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matix\\Desktop\\nk\\Temat10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00F9086-0830-4FD7-BF72-604D04583587}|Temat10\\Temat10.csproj|c:\\users\\matix\\desktop\\nk\\temat10\\temat10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00F9086-0830-4FD7-BF72-604D04583587}|Temat10\\Temat10.csproj|solutionrelative:temat10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00F9086-0830-4FD7-BF72-604D04583587}|Temat10\\Temat10.csproj|c:\\users\\matix\\desktop\\nk\\temat10\\temat10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C00F9086-0830-4FD7-BF72-604D04583587}|Temat10\\Temat10.csproj|solutionrelative:temat10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00F9086-0830-4FD7-BF72-604D04583587}|Temat10\\Temat10.csproj|c:\\users\\matix\\desktop\\nk\\temat10\\temat10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00F9086-0830-4FD7-BF72-604D04583587}|Temat10\\Temat10.csproj|solutionrelative:temat10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00F9086-0830-4FD7-BF72-604D04583587}|Temat10\\Temat10.csproj|c:\\users\\matix\\desktop\\nk\\temat10\\temat10\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C00F9086-0830-4FD7-BF72-604D04583587}|Temat10\\Temat10.csproj|solutionrelative:temat10\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matix\\Desktop\\nk\\Temat10\\Temat10\\Form1.cs",
+              "RelativeDocumentMoniker": "Temat10\\Form1.cs",
+              "ToolTip": "C:\\Users\\matix\\Desktop\\nk\\Temat10\\Temat10\\Form1.cs [Design]",
+              "RelativeToolTip": "Temat10\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:12:04.752Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matix\\Desktop\\nk\\Temat10\\Temat10\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Temat10\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\matix\\Desktop\\nk\\Temat10\\Temat10\\Form1.Designer.cs",
+              "RelativeToolTip": "Temat10\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:12:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\matix\\Desktop\\nk\\Temat10\\Temat10\\Form1.resx",
+              "RelativeDocumentMoniker": "Temat10\\Form1.resx",
+              "ToolTip": "C:\\Users\\matix\\Desktop\\nk\\Temat10\\Temat10\\Form1.resx",
+              "RelativeToolTip": "Temat10\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-07T19:12:00.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\matix\\Desktop\\nk\\Temat10\\Temat10\\Form1.cs",
+              "RelativeDocumentMoniker": "Temat10\\Form1.cs",
+              "ToolTip": "C:\\Users\\matix\\Desktop\\nk\\Temat10\\Temat10\\Form1.cs",
+              "RelativeToolTip": "Temat10\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:11:14.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

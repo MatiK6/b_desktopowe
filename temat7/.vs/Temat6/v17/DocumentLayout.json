@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\desktopowe\\temat6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66179D4E-B1F4-4CEA-A52B-9D9FBF3F40C4}|Temat6\\Temat6.csproj|d:\\desktopowe\\temat6\\temat6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66179D4E-B1F4-4CEA-A52B-9D9FBF3F40C4}|Temat6\\Temat6.csproj|solutionrelative:temat6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66179D4E-B1F4-4CEA-A52B-9D9FBF3F40C4}|Temat6\\Temat6.csproj|D:\\desktopowe\\temat6\\temat6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66179D4E-B1F4-4CEA-A52B-9D9FBF3F40C4}|Temat6\\Temat6.csproj|solutionrelative:temat6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\desktopowe\\temat6\\Temat6\\Form1.cs",
+              "RelativeDocumentMoniker": "Temat6\\Form1.cs",
+              "ToolTip": "D:\\desktopowe\\temat6\\Temat6\\Form1.cs",
+              "RelativeToolTip": "Temat6\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:23:49.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "D:\\desktopowe\\temat6\\Temat6\\Form1.cs",
+              "RelativeDocumentMoniker": "Temat6\\Form1.cs",
+              "ToolTip": "D:\\desktopowe\\temat6\\Temat6\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Temat6\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:16:57.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

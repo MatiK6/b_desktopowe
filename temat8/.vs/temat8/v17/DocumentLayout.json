@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matix\\Desktop\\nk\\temat8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356E43FB-5156-410D-87D3-C90B6FF2735D}|temat8\\temat8.csproj|c:\\users\\matix\\desktop\\nk\\temat8\\temat8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{356E43FB-5156-410D-87D3-C90B6FF2735D}|temat8\\temat8.csproj|solutionrelative:temat8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356E43FB-5156-410D-87D3-C90B6FF2735D}|temat8\\temat8.csproj|c:\\users\\matix\\desktop\\nk\\temat8\\temat8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356E43FB-5156-410D-87D3-C90B6FF2735D}|temat8\\temat8.csproj|solutionrelative:temat8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356E43FB-5156-410D-87D3-C90B6FF2735D}|temat8\\temat8.csproj|c:\\users\\matix\\desktop\\nk\\temat8\\temat8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356E43FB-5156-410D-87D3-C90B6FF2735D}|temat8\\temat8.csproj|solutionrelative:temat8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\matix\\Desktop\\nk\\temat8\\temat8\\Form1.cs",
+              "RelativeDocumentMoniker": "temat8\\Form1.cs",
+              "ToolTip": "C:\\Users\\matix\\Desktop\\nk\\temat8\\temat8\\Form1.cs",
+              "RelativeToolTip": "temat8\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:18:05.797Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matix\\Desktop\\nk\\temat8\\temat8\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "temat8\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\matix\\Desktop\\nk\\temat8\\temat8\\Form1.Designer.cs",
+              "RelativeToolTip": "temat8\\Form1.Designer.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAwwBQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:30:46.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matix\\Desktop\\nk\\temat8\\temat8\\Form1.cs",
+              "RelativeDocumentMoniker": "temat8\\Form1.cs",
+              "ToolTip": "C:\\Users\\matix\\Desktop\\nk\\temat8\\temat8\\Form1.cs [Design]",
+              "RelativeToolTip": "temat8\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:05:18.591Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

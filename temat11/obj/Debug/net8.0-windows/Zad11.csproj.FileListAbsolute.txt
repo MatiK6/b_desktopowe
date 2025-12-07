@@ -1,0 +1,48 @@
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\Zad11.Form1.resources
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\Zad11.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\Zad11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\Zad11.AssemblyInfoInputs.cache
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\Zad11.AssemblyInfo.cs
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\Zad11.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Zad11\bin\Debug\net8.0-windows\Zad11.exe
+C:\Users\Dawid\Desktop\Zad11\bin\Debug\net8.0-windows\Zad11.deps.json
+C:\Users\Dawid\Desktop\Zad11\bin\Debug\net8.0-windows\Zad11.runtimeconfig.json
+C:\Users\Dawid\Desktop\Zad11\bin\Debug\net8.0-windows\Zad11.dll
+C:\Users\Dawid\Desktop\Zad11\bin\Debug\net8.0-windows\Zad11.pdb
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\Zad11.dll
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\refint\Zad11.dll
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\Zad11.pdb
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\Zad11.genruntimeconfig.cache
+C:\Users\Dawid\Desktop\Zad11\obj\Debug\net8.0-windows\ref\Zad11.dll
+D:\PraceB\Astrofizyka - zadania C#\Zad11\bin\Debug\net8.0-windows\Zad11.exe
+D:\PraceB\Astrofizyka - zadania C#\Zad11\bin\Debug\net8.0-windows\Zad11.deps.json
+D:\PraceB\Astrofizyka - zadania C#\Zad11\bin\Debug\net8.0-windows\Zad11.runtimeconfig.json
+D:\PraceB\Astrofizyka - zadania C#\Zad11\bin\Debug\net8.0-windows\Zad11.dll
+D:\PraceB\Astrofizyka - zadania C#\Zad11\bin\Debug\net8.0-windows\Zad11.pdb
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\Zad11.Form1.resources
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\Zad11.csproj.GenerateResource.cache
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\Zad11.GeneratedMSBuildEditorConfig.editorconfig
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\Zad11.AssemblyInfoInputs.cache
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\Zad11.AssemblyInfo.cs
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\Zad11.csproj.CoreCompileInputs.cache
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\Zad11.dll
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\refint\Zad11.dll
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\Zad11.pdb
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\Zad11.genruntimeconfig.cache
+D:\PraceB\Astrofizyka - zadania C#\Zad11\obj\Debug\net8.0-windows\ref\Zad11.dll
+F:\desktopowe\temat11\bin\Debug\net8.0-windows\Zad11.exe
+F:\desktopowe\temat11\bin\Debug\net8.0-windows\Zad11.deps.json
+F:\desktopowe\temat11\bin\Debug\net8.0-windows\Zad11.runtimeconfig.json
+F:\desktopowe\temat11\bin\Debug\net8.0-windows\Zad11.dll
+F:\desktopowe\temat11\bin\Debug\net8.0-windows\Zad11.pdb
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\Zad11.Form1.resources
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\Zad11.csproj.GenerateResource.cache
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\Zad11.GeneratedMSBuildEditorConfig.editorconfig
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\Zad11.AssemblyInfoInputs.cache
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\Zad11.AssemblyInfo.cs
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\Zad11.csproj.CoreCompileInputs.cache
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\Zad11.dll
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\refint\Zad11.dll
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\Zad11.pdb
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\Zad11.genruntimeconfig.cache
+F:\desktopowe\temat11\obj\Debug\net8.0-windows\ref\Zad11.dll
